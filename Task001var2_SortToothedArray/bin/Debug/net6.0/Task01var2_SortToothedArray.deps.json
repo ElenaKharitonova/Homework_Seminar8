@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task01var2_SortToothedArray/1.0.0": {
+        "runtime": {
+          "Task01var2_SortToothedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task01var2_SortToothedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
