@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\bin\Debug\net6.0\Task001var1_SortArrayDescending.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\bin\Debug\net6.0\Task001var1_SortArrayDescending.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\bin\Debug\net6.0\Task001var1_SortArrayDescending.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\bin\Debug\net6.0\Task001var1_SortArrayDescending.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\bin\Debug\net6.0\Task001var1_SortArrayDescending.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\refint\Task001var1_SortArrayDescending.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\Task001var1_SortArrayDescending.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task001var1_SortArrayDescending\obj\Debug\net6.0\ref\Task001var1_SortArrayDescending.dll
