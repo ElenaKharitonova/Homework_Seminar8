@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\bin\Debug\net6.0\Task004_SpiralArray.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\bin\Debug\net6.0\Task004_SpiralArray.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\bin\Debug\net6.0\Task004_SpiralArray.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\bin\Debug\net6.0\Task004_SpiralArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\bin\Debug\net6.0\Task004_SpiralArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\refint\Task004_SpiralArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\Task004_SpiralArray.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar8\Task004_SpiralArray\obj\Debug\net6.0\ref\Task004_SpiralArray.dll
