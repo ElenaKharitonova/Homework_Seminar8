@@ -72,7 +72,7 @@ void SortBubble(int[] array)
     }
 }
 
-void SortBubbleStepArray(int[][] array,int m, int n)
+void SortBubbleStepArray(int[][] array)
 {
     foreach(int [] tempArray in array)
     {
@@ -88,5 +88,5 @@ int[][] matrixStep = SetStepArray(m, n);
 FillRandomStepArray(matrixStep);
 PrintStepArray(matrixStep);
 System.Console.WriteLine();
-SortBubbleStepArray(matrixStep, m, n);
+SortBubbleStepArray(matrixStep);
 PrintStepArray(matrixStep);

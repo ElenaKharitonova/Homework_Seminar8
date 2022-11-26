@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task01var2_SortToothedArray\\Task01var2_SortToothedArray.csproj": {}
+    "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task001var2_SortToothedArray\\Task01var2_SortToothedArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task01var2_SortToothedArray\\Task01var2_SortToothedArray.csproj": {
+    "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task001var2_SortToothedArray\\Task01var2_SortToothedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task01var2_SortToothedArray\\Task01var2_SortToothedArray.csproj",
+        "projectUniqueName": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task001var2_SortToothedArray\\Task01var2_SortToothedArray.csproj",
         "projectName": "Task01var2_SortToothedArray",
-        "projectPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task01var2_SortToothedArray\\Task01var2_SortToothedArray.csproj",
+        "projectPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task001var2_SortToothedArray\\Task01var2_SortToothedArray.csproj",
         "packagesPath": "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task01var2_SortToothedArray\\obj\\",
+        "outputPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar8\\Task001var2_SortToothedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
