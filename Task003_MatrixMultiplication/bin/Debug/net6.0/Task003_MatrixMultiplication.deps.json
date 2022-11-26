@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task003_MatrixMultiplication/1.0.0": {
+        "runtime": {
+          "Task003_MatrixMultiplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task003_MatrixMultiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
